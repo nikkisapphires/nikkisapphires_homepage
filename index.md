@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to Nikki's Home Page
 
-You can use the [editor on GitHub](https://github.com/nikkisapphires/nikkisapphires_homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Links
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Follow me on Instagram!](https://instagram.com/bangbanghurryup)
 
-### Markdown
+### [Follow me on SnapChat!](https://snapchat.com/add/thotout)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Buy me  stuff to wear plz 😘](https://amazon.com/gp/registry/wishlist/NCRLBSJ334NX)
 
-```markdown
-Syntax highlighted code block
+### [Follow me on Twitter](https://twitter.com/NikkiSapphire)
 
-# Header 1
-## Header 2
-### Header 3
+### [Free xxx content on my reddit](https://reddit.com/u/nikkisapphire)
 
-- Bulleted
-- List
+### [Follow me on Facebook](https://facebook.com/definitelynikki)
 
-1. Numbered
-2. List
+### [Ask Me Anything](https://curiouscat.me/NikkiSapphire)
 
-**Bold** and _Italic_ and `Code` text
+### [See all my GIFs on redgifs!](https://redgifs.com/users/NikkiSapphire)
 
-[Link](url) and ![Image](src)
-```
+### [My OnlyFans](https://onlyfans.com/nikkisapphire)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### [Nikki's Pornhub](https://pornhub.com/users/nikkisapphire)
 
-### Jekyll Themes
+### [FetLife](https://fetlife.com/users/5772047)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikkisapphires/nikkisapphires_homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Subscribe to my premium here](https://fancentro.com/nikkisapphire)

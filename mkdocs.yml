@@ -1,0 +1,41 @@
+site_name: Nikki Sapphire
+site_url: https://www.twitter.com/nikkisapphire
+site_description: Project documentation with Nikki Sapphire.
+site_author: Nikkie Sapphire IT Team
+edit_uri: ""
+
+theme:
+    name: material
+    logo: img/diamond.png
+    favicon: img/diamond.png
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins: []
+
+nav:
+    - Home: index.md
+    - <img class="hannah2" src="https://styles.redditmedia.com/t5_3bf8wz/styles/communityIcon_ijty92p38mv51.png"/>OnlyFans: https://onlyfans.com/nikkisapphire
+    - <img class="hannah" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png"/>Email: mailto://nikkisapphires@gmail.com
+    - <img class="hannah" src="https://www.freepnglogos.com/uploads/amazon-png-logo-vector/amazon-vector-logo-icons-png-4.png"/>Amazon Wishlist 😘: https://amazon.com/gp/registry/wishlist/NCRLBSJ334NX
+    - <img class="hannah" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"/> Instagram: https://instagram.com/bangbanghurryup
+    - <img class="hannah" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/>Twitter: https://twitter.com/NikkiSapphire
+    - <img class="hannah" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png"/>Reddit: https://reddit.com/u/nikkisapphire
+    - <img class="hannah" src="https://pbs.twimg.com/profile_images/1412394915556900870/sFwaHg7Y_400x400.png"/>RedGIFs!: https://redgifs.com/users/NikkiSapphire
+    - <img class="hannah2" src="https://pbs.twimg.com/profile_images/1004502321387188224/0u7PBn0l_400x400.jpg"/>FetLife: https://fetlife.com/users/5772047
+    - <img class="hannah2" src="https://cliply.co/wp-content/uploads/2021/02/372102780_TIKTOK_ICON_1080.png"/>TikTok: https://vm.tiktok.com/TTPdAmKt7a/
+    - <img class="hannah2" src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png"/>SnapChat: https://snapchat.com/add/thotout
+    - <img class="hannah" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png"/>Facebook: https://facebook.com/definitelynikki
+    - <img class="hannah" src="https://toppng.com/uploads/preview/curious-cat-support-help-center-home-page-curious-cat-icon-11562887466b3ofeqhno3.png"/>CuriousCat: https://curiouscat.me/NikkiSapphire
+    - <img class="hannah2" src="http://assets.stickpng.com/images/6127d831aa481f0004ea72d3.png"/>Pornhub: https://pornhub.com/users/nikkisapphire
+
+copyright: Copyright &copy; 2022 <a href="https://www.twitter.com/nikkisapphire">Nikki Sapphire</a>. Created by <a href="https://www.twitter.com/hannahtheory25">Hannah Lanser</a>.

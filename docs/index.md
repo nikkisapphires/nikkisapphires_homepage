@@ -20,7 +20,7 @@ The best way to reach me for work related purposes is my email: NikkiSapphires@g
 I periodically update my [Amazon Wishlist](https://amazon.com/gp/registry/wishlist/NCRLBSJ334NX) and will happily wear and post anything purchased for me. I've also added photography/videography equipment that I can use to help capture better quality content to share on my [OnlyFans](https://onlyfans.com/nikkisapphire). Of course, I added a few things that I just really, really wanted if you feel the need to spoil me.
 
 ???+ Abstract "Want to add something to my list?"
-    Send the link to me at [my email :material-email:](mailto://nikkisapphires@gmail.com)
+    Send the link to me at [my email](mailto://nikkisapphires@gmail.com)
 
 ???+ danger "Lightning bolt"
     this is a lightning bolt omfg

@@ -5,6 +5,8 @@ site_author: Nikkie Sapphire IT Team
 edit_uri: ""
 
 theme:
+    palette:
+        scheme: slate
     name: material
     logo: img/diamond.png
     favicon: img/diamond.png

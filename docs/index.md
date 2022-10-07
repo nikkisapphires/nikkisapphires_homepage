@@ -8,7 +8,7 @@ I'm a trans girl born and raised in the sunshine state. I enjoy traveling, sight
 
 # Social Outreach
 
-Please feel free to message me on any of my social platforms (See links on the left), but I will have to apologize in advance if I do not respond. Unfortunately, my message traffic has increased since starting my social media platforms and it's difficult for me to keep up with it sometimes. Contacting me through [Twitter](https://twitter.com/NikkiSapphire) or [Reddit](https://reddit.com/u/nikkisapphire) is usually more effective. I encourage any and all questions, just try to keep them somewhat classy.
+The best way to reach me for work related purposes is my email: NikkiSapphires@gmail.com.  Please feel free to message me on any of my social platforms (See links on the left), but I will have to apologize in advance if I do not respond. Unfortunately, my message traffic has increased since starting my social media platforms and it's difficult for me to keep up with it sometimes. Contacting me through [Twitter](https://twitter.com/NikkiSapphire) or [Reddit](https://reddit.com/u/nikkisapphire) is usually more effective. I encourage any and all questions, just try to keep them somewhat classy.  Jenny Bangz and I both have a discord for gaming if you'd like to hang out and play some games together sometime.  Youre more than welcome to poke your head in and say hi :)  [CLICK HERE TO JOIN!](https://discord.gg/ZTMwJdqt4u)
 
 ???+ tip
     If you want to get my attention, send me memes.

@@ -2,7 +2,7 @@
 
 # Biography
 
-I'm a trans girl born and raised in the sunshine state. I enjoy traveling, sightseeing, red wine, going to the beach, shopping for new clothes, and most importantly connecting with people. I produce my own pornography at home. You can see all my provocative content on my [OnlyFans](https://onlyfans.com/nikkisapphire) and you can check out the trailers for my videos on my [PornHub](https://www.pornhub.com/model/nikkisapphire) profile. Thank you for taking the time to check out my page. :)
+I'm a trans girl born and raised in the sunshine state. I enjoy traveling, sightseeing, red wine, going to the beach, shopping for new clothes, and most importantly connecting with people. I produce my own pornography at home. You can see all my provocative content on my [OnlyFans](https://onlyfans.com/nikkisapphire) and you can check out the trailers for my videos on my [PornHub](https://www.pornhub.com/model/nikkisapphire) profile. If you would like to hang out with me live you can usually find me on either my [Chaturbate](https://chaturbate.com/nikkisapphire/) or my [twitch](https://www.twitch.tv/nikkisapphire) accounts.  Please come say hi sometime. Thank you for taking the time to check out my page. :)
 
 <img width=700px src="img/B27A1476.jpg"/>
 

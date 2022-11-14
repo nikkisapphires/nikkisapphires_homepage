@@ -13,6 +13,9 @@ The best way to reach me for work related purposes is my email: NikkiSapphires@g
 ???+ tip
     If you want to get my attention, send me memes.
     
+# Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=nikkisapphires%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 <img width=700px src="img/450A5616.jpg"/>
 
 # Wishlist
